@@ -1,6 +1,6 @@
 # Projeto de Padrões de Projeto em TypeScript
 
-Este repositório contém implementações de vários padrões de design de software usando TypeScript. Os padrões abordados são frequentemente usados para resolver problemas comuns de design e estrutura em sistemas de software. Cada implementação inclui uma descrição e exemplos de uso.
+Este repositório contém implementações de vários padrões de design de software usando TypeScript. Os padrões abordados são frequentemente usados para resolver problemas comuns de design e estrutura em sistemas de software.
 
 ## Padrões Criacionais
 
