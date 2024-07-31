@@ -2,7 +2,7 @@
 
 Este repositório contém implementações de vários padrões de design de software usando TypeScript. Os padrões abordados são frequentemente usados para resolver problemas comuns de design e estrutura em sistemas de software. Cada implementação inclui uma descrição e exemplos de uso.
 
-## Padrões de Projeto Implementados
+## Padrões Criacionais
 
 1. **Factory Method**
    - O padrão Factory Method define uma interface para criar um objeto, mas permite que as subclasses alterem o tipo de objetos que serão criados. Esse padrão é utilizado para delegar a responsabilidade de instanciar uma classe para subclasses, promovendo flexibilidade e extensibilidade.
