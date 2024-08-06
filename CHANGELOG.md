@@ -8,6 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [unreleased]
 ### Added - 05/08/24
 - ✨ add adapter pattern
+- ✨ add composite pattern
 
 ## [1.0.0]
 ### Added - 30/07/24
