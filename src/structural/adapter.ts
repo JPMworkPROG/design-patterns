@@ -43,3 +43,5 @@ const fahrenheitSensor = new FahrenheitSensor(100);
 const adapter = new FahrenheitToCelsiusAdapter(fahrenheitSensor);
 
 console.log(`Temperature in celsius is: ${adapter.getTemperatureCelsius()}`);
+
+export {}
